@@ -1,0 +1,5 @@
+Decision-Tree algorithms
+This directory contains:
+a) Decision-Tree-01 implemented with Scikit-learn using Balanced_data dataset. Gini and Entropy criteria are employed 
+b) Decision-Tree-02 uses cross-validation function to estimate the performance of this algorithm. Use print_treefunction to show the tree
+c) Decision-Tree-03 uses decision-tree algorithms to predict based on the dataset "data_banknote_authentication"

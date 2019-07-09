@@ -3,7 +3,7 @@
 """
 Created on Tue Feb 19 15:45:50 2019
 
-@author: sedna
+@author: 
 """
 # Euclidean Distance Caculator
 def dist ( a , b , ax = 1 ) :

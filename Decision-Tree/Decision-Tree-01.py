@@ -3,7 +3,7 @@
 """
 Created on Thu Feb 28 21:01:47 2019
 
-@author: sedna
+@author:
 """
 
 import pandas as pd
